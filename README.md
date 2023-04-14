@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on Cognizant
 - 🌱 I’m currently learning Data Science
+- 💬 Ask me about SQL database, RDBMS, Stored Procedures
+
 
 <!--
 **IMdAslaM/IMdAslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
