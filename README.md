@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Cognizant
 - 🌱 I’m currently learning Data Science
 - ⚡ My Technical Skills are SQL, Python...
-- 💬 Ask me about SQL database, RDBMS, Stored Procedures
+- 💬 Ask me about SQL database, RDBMS, Stored Procedures, Python...
 
 
 
