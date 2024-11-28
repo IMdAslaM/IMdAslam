@@ -1,7 +1,7 @@
 ### Hi, Iam Mohamed Aslam 👋
 
 - 🔭 I’m currently working on Cognizant
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m an AI Engineer.
 - ⚡ My Technical Skills are Python, SQL, Data Analysis, Statistical Data Analysis, Machine learning, Data Science, NLP...
 - 💬 Ask me about Data Science, Machine Learning, Python, NLP, Word Embedding Techniques, Vector DataBase, SQL database, RDBMS, SQL Stored Procedures...
 
